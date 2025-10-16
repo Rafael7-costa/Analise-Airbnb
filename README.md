@@ -1,4 +1,4 @@
-# Analise do Histórico do Airbnb
+# Análise do Histórico do Airbnb
 
 # PROBLEMA DE NEGOCIO
 Analisar Históricos de dados do Airbnb para a empresa expandir para o setor de locação de quarto. 
