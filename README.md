@@ -30,26 +30,23 @@ Passo 5: Montar um relatório no Power BI seguindo as regras de negocio da empre
 3. Qual a taxa de crescimento no faturamento?
 4. Qual a taxa de crescimento da Quantidade de acomodação ?
 5. Qual o Tipo de quarto mais procurado ?
-6. Quem são os clientes que procuram altíssimo padrão ?
+
 
 # INSIGTHS DA ANALISE
 
 ### O bairro mais procurado é Manhattan e Brooklyn com quantidade de acomodações semelhantes, porem o preço médio é mais alto em Manhattan
- **Printis**
- **Printis**
+ ![Insight 1](img/Insight-1.png)
+ ![Insight 2](img/Insight-2.png)
 
 ### Comparado ao ano anterior tem um crescimento de 314% em relação a quantidade de acomodações e um crescimento de 15% em relação ao faturamento.
-	 **Printis**
+ ![Insight 3](img/Insight-3.png)
 
 ### A análise mostrou que os meses com mais procura são na época de férias. 
 ### Com exceção de abril a julho de 2019 que teve uma curva fora do comum.
-	 **Printis**
+ ![Insight 4](img/Insight-4.png)
 
 ### O quarto de baixo padrão foi o mais procurado em todos os anos 
-   **Printis**
-
-### informações dos clientes de altíssimo padrão e  
-   **Printis**
+ ![Insight 5](img/Insight-5.png)
 
 
 # RESULTADO/ RECOMENDAÇÃO
