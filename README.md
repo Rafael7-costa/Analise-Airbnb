@@ -17,7 +17,7 @@ O CEO deseja um relatório com apenas 2 dashboards, sendo 1 com as análises gr�
 
 # ESTRATEGIA DA SOLUÇAO
 
-Passo 1: Definição da coluna fato
+Passo 1: Definição da coluna fato 
 Passo 2: Identificação das dimensões
 Passo 3: Montar a análise por bairro
 Passo 4: Montar a análise por quantidade de acomodações 
