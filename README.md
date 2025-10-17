@@ -19,7 +19,7 @@ O CEO deseja um relatório com apenas 2 dashboards, sendo 1 com as análises gr�
 
 #### Passo 1: Definição da coluna fato 
 #### Passo 2: Identificação das dimensões
-#### Passo 3: Montar uma tabela calendário para análise de temporal 
+#### Passo 3: Montar uma tabela calendário para análise temporal 
 #### Passo 4: Montar a análise por bairro
 #### Passo 5: Montar a análise por quantidade de acomodações 
 #### Passo 6: Montar um relatório no Power BI seguindo as regras de negocio da empresa com os critérios definidos pelo CEO
