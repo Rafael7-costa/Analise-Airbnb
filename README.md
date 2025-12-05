@@ -56,8 +56,7 @@ O setor se mostrou em crescimento na região, sendo viável fazer campanhas de m
 No ultimo ano houve uma queda na quantidade de locação de quartos de Altíssimo padrão. porem manteve um crescimento de Alto padrão.
 
 # VISUALISE A ANALISE COMPLETA
-https://app.powerbi.com/reportEmbed?reportId=2dd811f0-29fd-433b-ab21-40ae48aae247&autoAuth=true&ctid=58674b1f-122e-4f0b-989f-a1e1d8191402
-
+https://app.powerbi.com/view?r=eyJrIjoiNTVhMDhhMzMtZmYyYS00MzRkLWExMDYtYmRlYjBkODk0YTI5IiwidCI6ImE0NTMyMzQyLWRjNjktNDhjMC1iODJhLTRhMWQ1ZDg2NGU2YiJ9
 
 # Próximos Passos
 
